@@ -26,8 +26,8 @@ HEADERS = {
 
 class hCaptcha(object):
     def __init__(self):
-        self.sitekey = 'eaaffc67-ea9f-4844-9740-9eefd238c7dc'
-        self.host = 'caspers.app'
+        self.sitekey = 'a5f74b19-9e45-40e0-b45d-47ff91b7a6c2'
+        self.host = 'accounts.hcaptcha.com'
         self.builder = {}
         self.c = {}
         self.starttime = time.time()
